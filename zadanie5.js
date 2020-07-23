@@ -33,3 +33,5 @@ vacuumCleaner.getPowerConsumption(3)
 vacuumCleaner.getNoiseLevel()
 tv.getPowerConsumption(0.6)
 tv.getSize()
+
+// Здесь уже всё гораздо логичнее :)
